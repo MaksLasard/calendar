@@ -1,0 +1,22 @@
+.layout_header {
+	display: flex;
+	align-items: center;
+	justify-content: end;
+	color: #fff;
+	background-color: teal;
+
+	.wrapper_menu {
+		display: flex;
+		align-items: center;
+		color: #fff;
+		background-color: teal;
+	}
+
+	.menu_user {
+		margin-right: 20px;
+	}
+
+	.menu_item {
+		background-color: teal;
+	}
+}
